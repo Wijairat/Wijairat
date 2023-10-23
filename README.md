@@ -19,4 +19,4 @@ I'm Wijairat, a sophomore majoring in Operations Research: Analytics at Columbia
 
 I am primarily interested in 
 
-My aspiration is to work in a Data Scientist role.
+Aspiring Data Scientist.
