@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Namo, a sophomore majoring in Operations Research: Analytics at Columbia University, graduating in May 2026.
+I'm Wijairat, a sophomore majoring in Operations Research: Analytics at Columbia University, graduating in May 2026.
+
+I am primarily interested in 
+
+My aspiration is to work in a Data Scientist role.
