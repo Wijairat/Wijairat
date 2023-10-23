@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Namo, a sophomore majoring in Operations Research: Analytics at Columbia Engineeringy, graduating in May 2026.
+I'm Namo, a sophomore majoring in Operations Research: Analytics at Columbia University, graduating in May 2026.
